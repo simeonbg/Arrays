@@ -49,6 +49,7 @@ class MaxSequenceOfEqualElem
 
                 indexOfSequence = 0;
 
+                //It's maybe mistake, but working.
                 if (index == lengthOfArray - 1)
                 {
                     break;
