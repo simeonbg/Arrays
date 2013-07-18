@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. PrintArray", "01. PrintArray\01. PrintArray.csproj", "{3F9839E2-9854-41A7-9CD0-5BA30644EA56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. CompareArrays", "02. CompareArrays\02. CompareArrays.csproj", "{9D1C2794-7424-485C-8FFD-DFED3F68F023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. CompareStrings", "03. CompareStrings\03. CompareStrings.csproj", "{4042EF83-6513-44AC-81AF-A5D15DB8019D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. MaxSequenceOfEqualElem", "04. MaxSequenceOfEqualElem\04. MaxSequenceOfEqualElem.csproj", "{F5C103EE-3528-404B-B64A-4F3D80612E45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F9839E2-9854-41A7-9CD0-5BA30644EA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9839E2-9854-41A7-9CD0-5BA30644EA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9839E2-9854-41A7-9CD0-5BA30644EA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9839E2-9854-41A7-9CD0-5BA30644EA56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1C2794-7424-485C-8FFD-DFED3F68F023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1C2794-7424-485C-8FFD-DFED3F68F023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1C2794-7424-485C-8FFD-DFED3F68F023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1C2794-7424-485C-8FFD-DFED3F68F023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4042EF83-6513-44AC-81AF-A5D15DB8019D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4042EF83-6513-44AC-81AF-A5D15DB8019D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4042EF83-6513-44AC-81AF-A5D15DB8019D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4042EF83-6513-44AC-81AF-A5D15DB8019D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C103EE-3528-404B-B64A-4F3D80612E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C103EE-3528-404B-B64A-4F3D80612E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C103EE-3528-404B-B64A-4F3D80612E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C103EE-3528-404B-B64A-4F3D80612E45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
